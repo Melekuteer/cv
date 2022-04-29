@@ -34,6 +34,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #EAF6F6;
+}
+
 p {
     font-weight: normal;
     color: #40514E;
